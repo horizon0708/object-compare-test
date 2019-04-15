@@ -1,0 +1,11 @@
+C:\Users\James\Projects\object-compare-test\bin\Debug\netcoreapp2.1\object-compare-test.deps.json
+C:\Users\James\Projects\object-compare-test\bin\Debug\netcoreapp2.1\object-compare-test.runtimeconfig.json
+C:\Users\James\Projects\object-compare-test\bin\Debug\netcoreapp2.1\object-compare-test.runtimeconfig.dev.json
+c:\Users\James\Projects\object-compare-test\bin\Debug\netcoreapp2.1\object-compare-test.dll
+c:\Users\James\Projects\object-compare-test\bin\Debug\netcoreapp2.1\object-compare-test.pdb
+c:\Users\James\Projects\object-compare-test\obj\Debug\netcoreapp2.1\object-compare-test.csprojAssemblyReference.cache
+c:\Users\James\Projects\object-compare-test\obj\Debug\netcoreapp2.1\object-compare-test.csproj.CoreCompileInputs.cache
+c:\Users\James\Projects\object-compare-test\obj\Debug\netcoreapp2.1\object-compare-test.AssemblyInfoInputs.cache
+c:\Users\James\Projects\object-compare-test\obj\Debug\netcoreapp2.1\object-compare-test.AssemblyInfo.cs
+c:\Users\James\Projects\object-compare-test\obj\Debug\netcoreapp2.1\object-compare-test.dll
+c:\Users\James\Projects\object-compare-test\obj\Debug\netcoreapp2.1\object-compare-test.pdb
